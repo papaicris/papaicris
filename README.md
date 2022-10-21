@@ -1,4 +1,4 @@
-<h2 align="center">Welcome! I'm Eduardo Queiroz and I'm a future Full stack developer🚀.</h2></br></br>
+<h2 align="center">SIIIIII</h2></br></br>
 
 ><h3>📊 Statistics:</h3>
 
@@ -49,15 +49,6 @@
   ##
   
   </p>
-<a href="mailto:eduardoldq1@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/mail.eduardoldq1@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.eduardoldq1@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/eduardo-queiroz-2785ba215/">
-  <img src="https://img.shields.io/badge/Eduardo%20Queiroz-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/eduardo-queiroz-2785ba215/"/>
-</a>
-<a href="https://www.instagram.com/_dudu.lucio16/">
-  <img src="https://img.shields.io/badge/Eduardo%20Queiroz-ba24c3?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/_dudu.lucio16/"/>
-</a>
 
  
   ![Snake animation](https://github.com/duardoqueiroz/duardoqueiroz/blob/output/github-contribution-grid-snake.svg)
